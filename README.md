@@ -1,4 +1,4 @@
-Project Description:
+#Project Description:
 
 In this project, I have created a web page using HTML, JavaScript, and CSS. The purpose of this page is to display playlists from the Spotify music streaming platform using the Spotify Developer API.
 
